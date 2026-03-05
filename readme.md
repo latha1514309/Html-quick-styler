@@ -324,5 +324,11 @@ Madurai Kamaraj University
 
 # 📜 License
 
-This project is released under the **Education Purpose**.
+License
+
+This project is intended for educational and research purposes only.
+Commercial use, redistribution, or modification for commercial products
+is not permitted without the author's permission.
+
+© 2026 **Thilagalatha**.
 
