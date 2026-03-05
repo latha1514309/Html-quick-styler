@@ -314,7 +314,7 @@ Possible upgrades include:
 
 # 👨‍💻 Author
 
-**Sakthivel**
+**MK ThilagaLatha**
 
 B.Sc Information Technology  
 PKN College  
